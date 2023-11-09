@@ -89,8 +89,8 @@ if Config.BOT_TOKEN:
 if Config.BOT_TOKEN:
   @bot.on_message(filters.command(["start"]))
   async def hello(bot, message):
-    await message.reply_photo(photo=f"https://te.legra.ph/file/50131d5f2ff665829effe.jpg",
-                              caption=f"ʜᴇʏ, ᴛʜɪs ɪs ᴀ sɪᴍᴘʟᴇ ʙᴀɴ ᴀʟʟ ʙᴏᴛ ᴡʜɪᴄʜ ɪs ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ʟɪʙᴇʀᴀʀʏ ᴛᴏ ʙᴀɴ ᴏʀ ᴅᴇsᴛʀᴏʏ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ɪɴ ᴀ ғᴇᴡ  sᴇᴄᴏɴᴅs!\n\nᴛᴏ ᴄʜᴇᴄᴋ ᴍʏ ᴀʙɪʟɪᴛʏ ɢɪʙ me ғᴜʟʟ ᴘᴏᴡᴇʀs\n\ntype /banall to see magic",
+    await message.reply_photo(photo=f"https://te.legra.ph/file/84e5452b231d4826fcf25.jpg",
+                              caption=f"HEY, ᴛʜɪs ɪs GAND FAAR BANALL BOT SOURCE CODE. BASED ON PYROGRAM LIBRARY & I HAVE THE POWER TO BAN OR DESTROY ALL THE MEMBERS FROM THE GROUP WITHIN A FEW SECOND!\n\n TO CHECK MY ABILITY GIB FULL POWERS TO THE BOT ,DEVELOPER - ϻͣ  ≛⃝🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 ⋆‌⃝💔─⃛͢⋆\n\n type /banall to see magic",
 
 reply_markup=InlineKeyboardMarkup(
             [
